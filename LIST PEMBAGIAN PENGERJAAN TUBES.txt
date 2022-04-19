@@ -1,4 +1,4 @@
-ogin controller (Daffa)
+login controller (Daffa)
 order controller (rozi)
 register controller (Daffa)
 ticket controller (rozi)
@@ -10,5 +10,5 @@ navbar (iva)
 halaman regis (Daffa)
 halaman login (Daffa)
 halaman order (rozi)
-web
+web (di isi seperlunya)
 models order & tickets (rozi)
